@@ -1,4 +1,4 @@
-package Excercises.TEST11;
+package Excercises.TASK11;
 
 public final class ArrayUtils {
     private ArrayUtils() {

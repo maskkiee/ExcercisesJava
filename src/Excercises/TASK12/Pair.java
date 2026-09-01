@@ -1,18 +1,10 @@
-package Excercises.TEST11;
+package Excercises.TASK12;
 
 import java.util.Objects;
 
 public class Pair<T, U> {
     private final T first;
     private final U second;
-
-    public T getFirst() {
-        return first;
-    }
-
-    public U getSecond() {
-        return second;
-    }
 
     public Pair(T first, U second) {
         this.first = first;
